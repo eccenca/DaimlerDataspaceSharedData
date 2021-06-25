@@ -1,0 +1,12 @@
+[
+    {
+        "name": "rangeliquid",
+        "version": "1.0",
+        "href": "/vehicles/EXVETESTVIN000001/resources/rangeliquid"
+    },
+    {
+        "name": "tanklevelpercent",
+        "version": "1.0",
+        "href": "/vehicles/EXVETESTVIN000001/resources/tanklevelpercent"
+    }
+]
