@@ -1,0 +1,19 @@
+{
+  "parkEvent": {
+    "timestamp": 1422748950000,
+    "TransientvehicleUUID": "64b9d893-f498-41f8-bc49-a57c4089bef4",
+    "vehicleManeuverType": "PARK_IN",
+    "horizontalAccuracy": 0,
+    "mostRecentParkingTime": 599999,
+    "vehicleLength": 3.5,
+    "positions": {
+      "latitude": "2.987654321",
+      "longitude": "-179.123456789",
+      "timestamp": 1422748950000,
+      "heading": 40.5,
+      "type": "FILTERED"
+    }
+  },
+  "version": "1.0.0",
+  "submitter": "DAIMLER"
+}
